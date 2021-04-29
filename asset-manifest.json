@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Todo-app/static/css/main.20065a93.chunk.css",
-    "main.js": "/Todo-app/static/js/main.4104c210.chunk.js",
-    "main.js.map": "/Todo-app/static/js/main.4104c210.chunk.js.map",
-    "runtime-main.js": "/Todo-app/static/js/runtime-main.1f2c9fca.js",
-    "runtime-main.js.map": "/Todo-app/static/js/runtime-main.1f2c9fca.js.map",
-    "static/js/2.441a18af.chunk.js": "/Todo-app/static/js/2.441a18af.chunk.js",
-    "static/js/2.441a18af.chunk.js.map": "/Todo-app/static/js/2.441a18af.chunk.js.map",
-    "static/js/3.80bf2deb.chunk.js": "/Todo-app/static/js/3.80bf2deb.chunk.js",
-    "static/js/3.80bf2deb.chunk.js.map": "/Todo-app/static/js/3.80bf2deb.chunk.js.map",
+    "main.css": "/Todo-app/static/css/main.e37e32de.chunk.css",
+    "main.js": "/Todo-app/static/js/main.8ded7ee9.chunk.js",
+    "main.js.map": "/Todo-app/static/js/main.8ded7ee9.chunk.js.map",
+    "runtime-main.js": "/Todo-app/static/js/runtime-main.b25a5ccc.js",
+    "runtime-main.js.map": "/Todo-app/static/js/runtime-main.b25a5ccc.js.map",
+    "static/js/2.f418d1ca.chunk.js": "/Todo-app/static/js/2.f418d1ca.chunk.js",
+    "static/js/2.f418d1ca.chunk.js.map": "/Todo-app/static/js/2.f418d1ca.chunk.js.map",
+    "static/js/3.cb616aae.chunk.js": "/Todo-app/static/js/3.cb616aae.chunk.js",
+    "static/js/3.cb616aae.chunk.js.map": "/Todo-app/static/js/3.cb616aae.chunk.js.map",
     "index.html": "/Todo-app/index.html",
-    "static/css/main.20065a93.chunk.css.map": "/Todo-app/static/css/main.20065a93.chunk.css.map",
-    "static/js/2.441a18af.chunk.js.LICENSE.txt": "/Todo-app/static/js/2.441a18af.chunk.js.LICENSE.txt",
+    "static/css/main.e37e32de.chunk.css.map": "/Todo-app/static/css/main.e37e32de.chunk.css.map",
+    "static/js/2.f418d1ca.chunk.js.LICENSE.txt": "/Todo-app/static/js/2.f418d1ca.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Todo-app/static/media/JosefinSans-Regular.c2462bfe.ttf",
     "static/media/App.css": "/Todo-app/static/media/icon-sun.910b1f9a.svg",
     "static/media/ListItems.css": "/Todo-app/static/media/icon-cross.6ee81d30.svg",
     "static/media/logo.6ce24c58.svg": "/Todo-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f2c9fca.js",
-    "static/js/2.441a18af.chunk.js",
-    "static/css/main.20065a93.chunk.css",
-    "static/js/main.4104c210.chunk.js"
+    "static/js/runtime-main.b25a5ccc.js",
+    "static/js/2.f418d1ca.chunk.js",
+    "static/css/main.e37e32de.chunk.css",
+    "static/js/main.8ded7ee9.chunk.js"
   ]
 }
